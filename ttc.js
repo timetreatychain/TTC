@@ -75,8 +75,8 @@ contract TTCToken is Token {
 	address ACCOUNT_ADDRESS_FINANCIALEXPENSES = 0xff0a7c80402A567B5197bC2bE494BBe28406562b; 
 	address ACCOUNT_ADDRESS_TEAMREWARDS = 0x9eB25851935Af752110aA3B87449bE110d244C95; 
 
-	uint256 public constant TTCStartTime0 = 1510146000; //GMT, 2017/11/04 13:00, 
-	uint256 public constant TTCEndTime0 = 1510232400; //GMT, 2017/11/05 13:00, 
+	uint256 public constant TTCStartTime0 = 1510146000; //GMT, 2017/11/08 13:00, 
+	uint256 public constant TTCEndTime0 = 1510232400; //GMT, 2017/11/09 13:00, 
 
 	uint256 public constant TTCStartTime1 = 1518699600; //GMT, 2018/02/15 13:00, 
 	uint256 public constant TTCEndTime1 = 1518786000; //GMT, 2018/02/16 13:00, 
